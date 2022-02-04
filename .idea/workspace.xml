@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae16ef27-3baa-4a34-b945-c8a621d99544" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Tim 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Tim 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Tim 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Tim 4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Tim 5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Tim 6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tribute-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/tribute-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tribute-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/tribute-page.html" afterDir="false" />
@@ -26,6 +32,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,10 +54,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\George\Documents\GitHub\tribute-page\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
