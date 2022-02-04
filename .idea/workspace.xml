@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ae16ef27-3baa-4a34-b945-c8a621d99544" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tribute-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/tribute-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tribute-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/tribute-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tribute-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tribute-page.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
