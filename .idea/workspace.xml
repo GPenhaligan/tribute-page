@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae16ef27-3baa-4a34-b945-c8a621d99544" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Tim 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Tim 2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Tim 3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Tim 4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Tim 5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Tim 6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Tim 4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Tim 5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Tim 6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tribute-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/tribute-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tribute-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/tribute-page.html" afterDir="false" />
     </list>
@@ -74,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643979185763</updated>
       <workItem from="1643979188116" duration="2501000" />
+      <workItem from="1643988000155" duration="150000" />
     </task>
     <servers />
   </component>
